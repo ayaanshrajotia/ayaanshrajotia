@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaanshrajotia&label=Profile%20views&color=0e75b6&style=flat" alt="ayaanshrajotia" /> </p>
 
-- 🔭 I’m currently working on [GossipCamp](https://gossipcamp.vercel.app/)
+- 🔭 I recently worked on [GossipCamp](https://gossipcamp.vercel.app/)
 
 - 🌱 I’m currently learning **NextJS**
 
