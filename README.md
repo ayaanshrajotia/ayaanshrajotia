@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **MERN and DSA related queries**
 
-- 📫 How to reach me **rajotiaayaansh7@gmail.com**
+- 📫 How to reach me **rajotiaayaansh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
